@@ -1,4 +1,4 @@
-# ZanamTech — Enterprise Cloud Architecture, DevSecOps & Secure AI
+# ZanamTech - Enterprise Cloud Architecture, DevSecOps & Secure AI
 
 > A cloud-native engineering partner accelerating business operations through resilient infrastructure, DevSecOps, and secure AI.
 
