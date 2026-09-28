@@ -10,12 +10,12 @@
 ---
 
 ### ⚡ Core Engineering Capabilities
-- ☁️ **Cloud Migration & Orchestration:** AWS, Azure, GCP, Docker, Kubernetes[cite: 1, 3]
-- 🛡️ **Enterprise Cyber Security:** Cloudflare WAF, Zero-Trust Firewalls, SSL/TLS, DDoS Protection[cite: 1, 3]
-- 🔄 **High Availability & DR:** PostgreSQL, MySQL, Cross-Region Database Replication & Failover[cite: 1, 3]
-- 🚀 **DevSecOps & Automation:** Jenkins, GitHub Actions, CI/CD Release Pipelines[cite: 1, 3]
-- 📊 **Active System Observability:** Prometheus, Grafana, Zabbix Telemetry Stacks[cite: 1, 3]
-- 🤖 **Intelligent Enterprise AI:** Private LLMs, Secure Document Retrieval (RAG) & Vector Workflows[cite: 1, 3]
+- ☁️ **Cloud Migration & Orchestration:** AWS, Azure, GCP, Docker, Kubernetes
+- 🛡️ **Enterprise Cyber Security:** Cloudflare WAF, Zero-Trust Firewalls, SSL/TLS, DDoS Protection
+- 🔄 **High Availability & DR:** PostgreSQL, MySQL, Cross-Region Database Replication & Failover
+- 🚀 **DevSecOps & Automation:** Jenkins, GitHub Actions, CI/CD Release Pipelines
+- 📊 **Active System Observability:** Prometheus, Grafana, Zabbix Telemetry Stacks
+- 🤖 **Intelligent Enterprise AI:** Private LLMs, Secure Document Retrieval (RAG) & Vector Workflows
 
 ---
 
